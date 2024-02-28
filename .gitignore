@@ -31,5 +31,12 @@
 *.out
 *.app
 
+# Class files
+*.class
+
 # Not required folders
 .idea
+
+
+# Not required files
+*mvnw*
